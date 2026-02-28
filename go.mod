@@ -1,6 +1,6 @@
 module gpgHelper
 
-go 1.25
+go 1.22.0
 
 require github.com/ProtonMail/gopenpgp/v3 v3.3.0
 
